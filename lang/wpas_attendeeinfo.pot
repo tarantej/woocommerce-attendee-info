@@ -1,0 +1,621 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-04-10T05:27:27-04:00\n"
+"POT-Creation-Date: 2017-04-10T05:27:27-04:00\n"
+
+#: woocommerce-attendee-information/includes/admin/glossary.php:21
+msgid "Captures additional attendee information for events on checkout page. Customized checkout layout"
+msgstr ""
+
+#: woocommerce-attendee-information/includes/admin/glossary.php:22
+msgid "The below are the definitions of entities, attributes, and terms included in Woocommerce Attendee Information."
+msgstr ""
+
+#: woocommerce-attendee-information/includes/admin/glossary.php:26
+msgid "Attendees"
+msgstr ""
+
+#: woocommerce-attendee-information/includes/admin/glossary.php:29
+#: woocommerce-attendee-information/includes/admin/glossary.php:53
+msgid ""
+msgstr ""
+
+#: woocommerce-attendee-information/includes/admin/glossary.php:30
+msgid "Attendee Name"
+msgstr ""
+
+#: woocommerce-attendee-information/includes/admin/glossary.php:31
+msgid "Name of the Attendee Attendee Name is a required field. Attendee Name is filterable in the admin area. Attendee Name does not have a default value. "
+msgstr ""
+
+#: woocommerce-attendee-information/includes/admin/glossary.php:33
+msgid "Job Title"
+msgstr ""
+
+#: woocommerce-attendee-information/includes/admin/glossary.php:34
+msgid "Designation / Job Title of the Attendee Job Title is a required field. Job Title is filterable in the admin area. Job Title does not have a default value. "
+msgstr ""
+
+#: woocommerce-attendee-information/includes/admin/glossary.php:36
+msgid "Company"
+msgstr ""
+
+#: woocommerce-attendee-information/includes/admin/glossary.php:37
+msgid "Company where the attendee works Company is a required field. Company is filterable in the admin area. Company does not have a default value. "
+msgstr ""
+
+#: woocommerce-attendee-information/includes/admin/glossary.php:39
+#: woocommerce-attendee-information/includes/admin/glossary.php:60
+msgid "Email"
+msgstr ""
+
+#: woocommerce-attendee-information/includes/admin/glossary.php:40
+msgid "Attendee Email Email is a required field. Being a unique identifier, it uniquely distinguishes each instance of Attendee entity. Email is filterable in the admin area. Email does not have a default value. "
+msgstr ""
+
+#: woocommerce-attendee-information/includes/admin/glossary.php:42
+msgid "Attendee"
+msgstr ""
+
+#: woocommerce-attendee-information/includes/admin/glossary.php:44
+msgid " Attendee accepts multiple values like tags"
+msgstr ""
+
+#: woocommerce-attendee-information/includes/admin/glossary.php:44
+msgid "Attendee does not have a default value"
+msgstr ""
+
+#: woocommerce-attendee-information/includes/admin/glossary.php:44
+msgid "Attendee is a required field therefore must be assigned to a value"
+msgstr ""
+
+#: woocommerce-attendee-information/includes/admin/glossary.php:44
+msgid "There are no preset values for <b>Attendee:</b>"
+msgstr ""
+
+#: woocommerce-attendee-information/includes/admin/glossary.php:50
+msgid "Contacts"
+msgstr ""
+
+#: woocommerce-attendee-information/includes/admin/glossary.php:54
+msgid "First Name"
+msgstr ""
+
+#: woocommerce-attendee-information/includes/admin/glossary.php:55
+msgid " First Name is a required field. First Name is filterable in the admin area. First Name does not have a default value. "
+msgstr ""
+
+#: woocommerce-attendee-information/includes/admin/glossary.php:57
+msgid "Last Name"
+msgstr ""
+
+#: woocommerce-attendee-information/includes/admin/glossary.php:58
+msgid " Last Name is a required field. Last Name is filterable in the admin area. Last Name does not have a default value. "
+msgstr ""
+
+#: woocommerce-attendee-information/includes/admin/glossary.php:61
+msgid " Email is a required field. Being a unique identifier, it uniquely distinguishes each instance of Contact entity. Email is filterable in the admin area. Email does not have a default value. "
+msgstr ""
+
+#: woocommerce-attendee-information/includes/admin/glossary.php:63
+msgid "Address"
+msgstr ""
+
+#: woocommerce-attendee-information/includes/admin/glossary.php:64
+msgid " Address does not have a default value. "
+msgstr ""
+
+#: woocommerce-attendee-information/includes/admin/glossary.php:66
+msgid "City"
+msgstr ""
+
+#: woocommerce-attendee-information/includes/admin/glossary.php:67
+msgid " City is filterable in the admin area. City does not have a default value. "
+msgstr ""
+
+#: woocommerce-attendee-information/includes/admin/glossary.php:69
+msgid "Zipcode"
+msgstr ""
+
+#: woocommerce-attendee-information/includes/admin/glossary.php:70
+msgid "We only accept US based customers so you need to have a valid U.S. zip code. Zipcode is a required field. Zipcode does not have a default value. "
+msgstr ""
+
+#: woocommerce-attendee-information/includes/admin/glossary.php:72
+msgid "State"
+msgstr ""
+
+#: woocommerce-attendee-information/includes/admin/glossary.php:73
+msgid " State is filterable in the admin area. State does not have a default value. State is displayed as a dropdown and has predefined values of: ak, al, ar, az, ca, co, ct, dc, de, fl, ga, hi, ia, id, il, in, ks, ky, la, ma, md, me, mi, mn, mo, ms, mt, nc, nd, ne, nh, nj, nm, nv, ny, oh, ok, or, pa, ri, sc, sd, tn, tx, ut, va, vt, wa, wi, wv, wy."
+msgstr ""
+
+#: woocommerce-attendee-information/includes/admin/glossary.php:75
+msgid "Phone"
+msgstr ""
+
+#: woocommerce-attendee-information/includes/admin/glossary.php:76
+msgid "U.S. phone numbers only. Phone is a required field. Phone is filterable in the admin area. Phone does not have a default value. "
+msgstr ""
+
+#: woocommerce-attendee-information/includes/admin/glossary.php:78
+msgid "Callback Time"
+msgstr ""
+
+#: woocommerce-attendee-information/includes/admin/glossary.php:79
+msgid "All calls are made before 9.pm in Eastern Time. Callback Time is filterable in the admin area. Callback Time has a default value of <b>'Noon'</b>.Callback Time is displayed as a dropdown and has predefined values of: morning, noon, evening."
+msgstr ""
+
+#: woocommerce-attendee-information/includes/admin/glossary.php:81
+msgid "Quote"
+msgstr ""
+
+#: woocommerce-attendee-information/includes/admin/glossary.php:82
+msgid " Quote is a required field. Quote is filterable in the admin area. Quote does not have a default value. "
+msgstr ""
+
+#: woocommerce-attendee-information/includes/admin/store-functions.php:24
+#: woocommerce-attendee-information/includes/admin/store-functions.php:47
+msgid "Browse All"
+msgstr ""
+
+#: woocommerce-attendee-information/includes/admin/store-functions.php:26
+msgid "The following plugins extend and expand the functionality of your app."
+msgstr ""
+
+#: woocommerce-attendee-information/includes/admin/store-functions.php:49
+msgid "The following <a href=\"%s\" title=\"WP App Studio Prodev\" target=\"_blank\">WP App Studio Prodev</a> plugin designs can be used as a template:"
+msgstr ""
+
+#: woocommerce-attendee-information/includes/admin/store-functions.php:51
+msgid "To customize the functionality of their corresponding plugins"
+msgstr ""
+
+#: woocommerce-attendee-information/includes/admin/store-functions.php:54
+msgid "To create your own plugin"
+msgstr ""
+
+#: woocommerce-attendee-information/includes/admin/store-functions.php:81
+msgid "There was an error retrieving the extensions list from the server. Please try again later."
+msgstr ""
+
+#: woocommerce-attendee-information/includes/admin/store-functions.php:101
+msgid "Thanks for installing %s."
+msgstr ""
+
+#: woocommerce-attendee-information/includes/admin/store-functions.php:101
+msgid "All support requests are accepted through <a href=\"%s\" target=\"_blank\">our support site.</a>"
+msgstr ""
+
+#: woocommerce-attendee-information/includes/admin/store-functions.php:126
+msgid "Like our plugin? Leave us a review"
+msgstr ""
+
+#: woocommerce-attendee-information/includes/class-install-deactivate.php:294
+msgid "We only accept US based customers so you need to have a valid U.S. zip code."
+msgstr ""
+
+#: woocommerce-attendee-information/includes/class-install-deactivate.php:308
+#: woocommerce-attendee-information/includes/class-install-deactivate.php:387
+msgid "Please Select"
+msgstr ""
+
+#: woocommerce-attendee-information/includes/class-install-deactivate.php:309
+msgid "AK"
+msgstr ""
+
+#: woocommerce-attendee-information/includes/class-install-deactivate.php:310
+msgid "AL"
+msgstr ""
+
+#: woocommerce-attendee-information/includes/class-install-deactivate.php:311
+msgid "AR"
+msgstr ""
+
+#: woocommerce-attendee-information/includes/class-install-deactivate.php:312
+msgid "AZ"
+msgstr ""
+
+#: woocommerce-attendee-information/includes/class-install-deactivate.php:313
+msgid "CA"
+msgstr ""
+
+#: woocommerce-attendee-information/includes/class-install-deactivate.php:314
+msgid "CO"
+msgstr ""
+
+#: woocommerce-attendee-information/includes/class-install-deactivate.php:315
+msgid "CT"
+msgstr ""
+
+#: woocommerce-attendee-information/includes/class-install-deactivate.php:316
+msgid "DC"
+msgstr ""
+
+#: woocommerce-attendee-information/includes/class-install-deactivate.php:317
+msgid "DE"
+msgstr ""
+
+#: woocommerce-attendee-information/includes/class-install-deactivate.php:318
+msgid "FL"
+msgstr ""
+
+#: woocommerce-attendee-information/includes/class-install-deactivate.php:319
+msgid "GA"
+msgstr ""
+
+#: woocommerce-attendee-information/includes/class-install-deactivate.php:320
+msgid "HI"
+msgstr ""
+
+#: woocommerce-attendee-information/includes/class-install-deactivate.php:321
+msgid "IA"
+msgstr ""
+
+#: woocommerce-attendee-information/includes/class-install-deactivate.php:322
+msgid "ID"
+msgstr ""
+
+#: woocommerce-attendee-information/includes/class-install-deactivate.php:323
+msgid "IL"
+msgstr ""
+
+#: woocommerce-attendee-information/includes/class-install-deactivate.php:324
+msgid "IN"
+msgstr ""
+
+#: woocommerce-attendee-information/includes/class-install-deactivate.php:325
+msgid "KS"
+msgstr ""
+
+#: woocommerce-attendee-information/includes/class-install-deactivate.php:326
+msgid "KY"
+msgstr ""
+
+#: woocommerce-attendee-information/includes/class-install-deactivate.php:327
+msgid "LA"
+msgstr ""
+
+#: woocommerce-attendee-information/includes/class-install-deactivate.php:328
+msgid "MA"
+msgstr ""
+
+#: woocommerce-attendee-information/includes/class-install-deactivate.php:329
+msgid "MD"
+msgstr ""
+
+#: woocommerce-attendee-information/includes/class-install-deactivate.php:330
+msgid "ME"
+msgstr ""
+
+#: woocommerce-attendee-information/includes/class-install-deactivate.php:331
+msgid "MI"
+msgstr ""
+
+#: woocommerce-attendee-information/includes/class-install-deactivate.php:332
+msgid "MN"
+msgstr ""
+
+#: woocommerce-attendee-information/includes/class-install-deactivate.php:333
+msgid "MO"
+msgstr ""
+
+#: woocommerce-attendee-information/includes/class-install-deactivate.php:334
+msgid "MS"
+msgstr ""
+
+#: woocommerce-attendee-information/includes/class-install-deactivate.php:335
+msgid "MT"
+msgstr ""
+
+#: woocommerce-attendee-information/includes/class-install-deactivate.php:336
+msgid "NC"
+msgstr ""
+
+#: woocommerce-attendee-information/includes/class-install-deactivate.php:337
+msgid "ND"
+msgstr ""
+
+#: woocommerce-attendee-information/includes/class-install-deactivate.php:338
+msgid "NE"
+msgstr ""
+
+#: woocommerce-attendee-information/includes/class-install-deactivate.php:339
+msgid "NH"
+msgstr ""
+
+#: woocommerce-attendee-information/includes/class-install-deactivate.php:340
+msgid "NJ"
+msgstr ""
+
+#: woocommerce-attendee-information/includes/class-install-deactivate.php:341
+msgid "NM"
+msgstr ""
+
+#: woocommerce-attendee-information/includes/class-install-deactivate.php:342
+msgid "NV"
+msgstr ""
+
+#: woocommerce-attendee-information/includes/class-install-deactivate.php:343
+msgid "NY"
+msgstr ""
+
+#: woocommerce-attendee-information/includes/class-install-deactivate.php:344
+msgid "OH"
+msgstr ""
+
+#: woocommerce-attendee-information/includes/class-install-deactivate.php:345
+msgid "OK"
+msgstr ""
+
+#: woocommerce-attendee-information/includes/class-install-deactivate.php:346
+msgid "OR"
+msgstr ""
+
+#: woocommerce-attendee-information/includes/class-install-deactivate.php:347
+msgid "PA"
+msgstr ""
+
+#: woocommerce-attendee-information/includes/class-install-deactivate.php:348
+msgid "RI"
+msgstr ""
+
+#: woocommerce-attendee-information/includes/class-install-deactivate.php:349
+msgid "SC"
+msgstr ""
+
+#: woocommerce-attendee-information/includes/class-install-deactivate.php:350
+msgid "SD"
+msgstr ""
+
+#: woocommerce-attendee-information/includes/class-install-deactivate.php:351
+msgid "TN"
+msgstr ""
+
+#: woocommerce-attendee-information/includes/class-install-deactivate.php:352
+msgid "TX"
+msgstr ""
+
+#: woocommerce-attendee-information/includes/class-install-deactivate.php:353
+msgid "UT"
+msgstr ""
+
+#: woocommerce-attendee-information/includes/class-install-deactivate.php:354
+msgid "VA"
+msgstr ""
+
+#: woocommerce-attendee-information/includes/class-install-deactivate.php:355
+msgid "VT"
+msgstr ""
+
+#: woocommerce-attendee-information/includes/class-install-deactivate.php:356
+msgid "WA"
+msgstr ""
+
+#: woocommerce-attendee-information/includes/class-install-deactivate.php:357
+msgid "WI"
+msgstr ""
+
+#: woocommerce-attendee-information/includes/class-install-deactivate.php:358
+msgid "WV"
+msgstr ""
+
+#: woocommerce-attendee-information/includes/class-install-deactivate.php:359
+msgid "WY"
+msgstr ""
+
+#: woocommerce-attendee-information/includes/class-install-deactivate.php:370
+msgid "U.S. phone numbers only."
+msgstr ""
+
+#: woocommerce-attendee-information/includes/class-install-deactivate.php:384
+msgid "All calls are made before 9.pm in Eastern Time."
+msgstr ""
+
+#: woocommerce-attendee-information/includes/class-install-deactivate.php:388
+msgid "Morning"
+msgstr ""
+
+#: woocommerce-attendee-information/includes/class-install-deactivate.php:389
+msgid "Noon"
+msgstr ""
+
+#: woocommerce-attendee-information/includes/class-install-deactivate.php:390
+msgid "Evening"
+msgstr ""
+
+#: woocommerce-attendee-information/includes/class-install-deactivate.php:414
+msgid "Name of the Attendee"
+msgstr ""
+
+#: woocommerce-attendee-information/includes/class-install-deactivate.php:426
+msgid "Designation / Job Title of the Attendee"
+msgstr ""
+
+#: woocommerce-attendee-information/includes/class-install-deactivate.php:438
+msgid "Company where the attendee works"
+msgstr ""
+
+#: woocommerce-attendee-information/includes/class-install-deactivate.php:450
+msgid "Attendee Email"
+msgstr ""
+
+#: woocommerce-attendee-information/includes/entities/class-emd-attendee.php:73
+msgid "Featured Image"
+msgstr ""
+
+#: woocommerce-attendee-information/includes/entities/class-emd-attendee.php:256
+msgid "Add New"
+msgstr ""
+
+#: woocommerce-attendee-information/includes/entities/class-emd-attendee.php:257
+#: woocommerce-attendee-information/includes/entities/class-emd-attendee.php:305
+msgid "Add New Attendee"
+msgstr ""
+
+#: woocommerce-attendee-information/includes/entities/class-emd-attendee.php:258
+#: woocommerce-attendee-information/includes/entities/class-emd-attendee.php:303
+msgid "Edit Attendee"
+msgstr ""
+
+#: woocommerce-attendee-information/includes/entities/class-emd-attendee.php:259
+msgid "New Attendee"
+msgstr ""
+
+#: woocommerce-attendee-information/includes/entities/class-emd-attendee.php:260
+msgid "All Attendees"
+msgstr ""
+
+#: woocommerce-attendee-information/includes/entities/class-emd-attendee.php:261
+msgid "View Attendee"
+msgstr ""
+
+#: woocommerce-attendee-information/includes/entities/class-emd-attendee.php:262
+#: woocommerce-attendee-information/includes/entities/class-emd-attendee.php:298
+msgid "Search Attendees"
+msgstr ""
+
+#: woocommerce-attendee-information/includes/entities/class-emd-attendee.php:263
+msgid "No Attendees Found"
+msgstr ""
+
+#: woocommerce-attendee-information/includes/entities/class-emd-attendee.php:264
+msgid "No Attendees Found In Trash"
+msgstr ""
+
+#: woocommerce-attendee-information/includes/entities/class-emd-attendee.php:299
+msgid "Popular Attendees"
+msgstr ""
+
+#: woocommerce-attendee-information/includes/entities/class-emd-attendee.php:300
+msgid "All"
+msgstr ""
+
+#: woocommerce-attendee-information/includes/entities/class-emd-attendee.php:304
+msgid "Update Attendee"
+msgstr ""
+
+#: woocommerce-attendee-information/includes/entities/class-emd-attendee.php:306
+msgid "Add New Attendee Name"
+msgstr ""
+
+#: woocommerce-attendee-information/includes/entities/class-emd-attendee.php:307
+msgid "Seperate Attendees with commas"
+msgstr ""
+
+#: woocommerce-attendee-information/includes/entities/class-emd-attendee.php:308
+msgid "Add or Remove Attendees"
+msgstr ""
+
+#: woocommerce-attendee-information/includes/entities/class-emd-attendee.php:309
+msgid "Choose from the most used Attendees"
+msgstr ""
+
+#: woocommerce-attendee-information/includes/entities/class-emd-attendee.php:358
+msgid "Attendee Info"
+msgstr ""
+
+#: woocommerce-attendee-information/includes/entities/class-emd-attendee.php:421
+msgid "Operations"
+msgstr ""
+
+#: woocommerce-attendee-information/includes/entities/class-emd-contact.php:255
+#: woocommerce-attendee-information/includes/entities/class-emd-contact.php:306
+msgid "Contact"
+msgstr ""
+
+#: woocommerce-attendee-information/includes/entities/class-emd-contact.php:257
+msgid "Add New Contact"
+msgstr ""
+
+#: woocommerce-attendee-information/includes/entities/class-emd-contact.php:258
+msgid "Edit Contact"
+msgstr ""
+
+#: woocommerce-attendee-information/includes/entities/class-emd-contact.php:259
+msgid "New Contact"
+msgstr ""
+
+#: woocommerce-attendee-information/includes/entities/class-emd-contact.php:260
+msgid "All Contacts"
+msgstr ""
+
+#: woocommerce-attendee-information/includes/entities/class-emd-contact.php:261
+msgid "View Contact"
+msgstr ""
+
+#: woocommerce-attendee-information/includes/entities/class-emd-contact.php:262
+msgid "Search Contacts"
+msgstr ""
+
+#: woocommerce-attendee-information/includes/entities/class-emd-contact.php:263
+msgid "No Contacts Found"
+msgstr ""
+
+#: woocommerce-attendee-information/includes/entities/class-emd-contact.php:264
+msgid "No Contacts Found In Trash"
+msgstr ""
+
+#: woocommerce-attendee-information/includes/entities/class-emd-contact.php:311
+msgid "Contact Info"
+msgstr ""
+
+#: woocommerce-attendee-information/includes/scripts.php:50
+msgid "Please enter a unique value."
+msgstr ""
+
+#: woocommerce-attendee-information/includes/scripts.php:51
+msgid "required"
+msgstr ""
+
+#: woocommerce-attendee-information/includes/scripts.php:67
+msgid "Taxonomy"
+msgstr ""
+
+#: woocommerce-attendee-information/layouts/emd-archive.php:46
+msgid "<i class=\"fa fa-angle-left\"></i> Previous"
+msgstr ""
+
+#: woocommerce-attendee-information/layouts/emd-archive.php:48
+msgid "Next <i class=\"fa fa-angle-right\"></i>"
+msgstr ""
+
+#: woocommerce-attendee-information/layouts/emd-single.php:43
+msgctxt "Previous post link"
+msgid "<i class=\"fa fa-angle-left\"></i>"
+msgstr ""
+
+#: woocommerce-attendee-information/layouts/emd-single.php:44
+msgctxt "Next post link"
+msgid "<i class=\"fa fa-angle-right\"></i>"
+msgstr ""
+
+#: woocommerce-attendee-information/woocommerce-attendee-information.php:76
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: woocommerce-attendee-information/woocommerce-attendee-information.php:201
+msgid "Glossary"
+msgstr ""
+
+#: woocommerce-attendee-information/woocommerce-attendee-information.php:205
+msgid "Settings"
+msgstr ""
+
+#: woocommerce-attendee-information/woocommerce-attendee-information.php:209
+msgid "Add-Ons"
+msgstr ""
+
+#: woocommerce-attendee-information/woocommerce-attendee-information.php:213
+msgid "Designs"
+msgstr ""
+
+#: woocommerce-attendee-information/woocommerce-attendee-information.php:217
+msgid "Support"
+msgstr ""

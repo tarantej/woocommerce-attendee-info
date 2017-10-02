@@ -1,0 +1,805 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-04-10T05:27:27-04:00\n"
+"POT-Creation-Date: 2017-04-10T05:27:27-04:00\n"
+
+#: ./woocommerce-attendee-information/assets/ext/emd-meta-box/inc/field.php:234
+msgid "+ Add more"
+msgstr ""
+
+#: ./woocommerce-attendee-information/assets/ext/emd-meta-box/inc/fields/button.php:35
+msgid "Click me"
+msgstr ""
+
+#: ./woocommerce-attendee-information/assets/ext/emd-meta-box/inc/fields/date.php:18
+msgid "Done"
+msgstr ""
+
+#: ./woocommerce-attendee-information/assets/ext/emd-meta-box/inc/fields/date.php:19
+msgid "Prev"
+msgstr ""
+
+#: ./woocommerce-attendee-information/assets/ext/emd-meta-box/inc/fields/date.php:20
+msgid "Next"
+msgstr ""
+
+#: ./woocommerce-attendee-information/assets/ext/emd-meta-box/inc/fields/date.php:21
+msgid "Today"
+msgstr ""
+
+#: ./woocommerce-attendee-information/assets/ext/emd-meta-box/inc/fields/date.php:22
+msgid "January"
+msgstr ""
+
+#: ./woocommerce-attendee-information/assets/ext/emd-meta-box/inc/fields/date.php:22
+msgid "February"
+msgstr ""
+
+#: ./woocommerce-attendee-information/assets/ext/emd-meta-box/inc/fields/date.php:22
+msgid "March"
+msgstr ""
+
+#: ./woocommerce-attendee-information/assets/ext/emd-meta-box/inc/fields/date.php:22
+msgid "April"
+msgstr ""
+
+#: ./woocommerce-attendee-information/assets/ext/emd-meta-box/inc/fields/date.php:22
+#: ./woocommerce-attendee-information/assets/ext/emd-meta-box/inc/fields/date.php:23
+msgid "May"
+msgstr ""
+
+#: ./woocommerce-attendee-information/assets/ext/emd-meta-box/inc/fields/date.php:22
+msgid "June"
+msgstr ""
+
+#: ./woocommerce-attendee-information/assets/ext/emd-meta-box/inc/fields/date.php:22
+msgid "July"
+msgstr ""
+
+#: ./woocommerce-attendee-information/assets/ext/emd-meta-box/inc/fields/date.php:22
+msgid "August"
+msgstr ""
+
+#: ./woocommerce-attendee-information/assets/ext/emd-meta-box/inc/fields/date.php:22
+msgid "September"
+msgstr ""
+
+#: ./woocommerce-attendee-information/assets/ext/emd-meta-box/inc/fields/date.php:22
+msgid "October"
+msgstr ""
+
+#: ./woocommerce-attendee-information/assets/ext/emd-meta-box/inc/fields/date.php:22
+msgid "November"
+msgstr ""
+
+#: ./woocommerce-attendee-information/assets/ext/emd-meta-box/inc/fields/date.php:22
+msgid "December"
+msgstr ""
+
+#: ./woocommerce-attendee-information/assets/ext/emd-meta-box/inc/fields/date.php:23
+msgid "Jan"
+msgstr ""
+
+#: ./woocommerce-attendee-information/assets/ext/emd-meta-box/inc/fields/date.php:23
+msgid "Feb"
+msgstr ""
+
+#: ./woocommerce-attendee-information/assets/ext/emd-meta-box/inc/fields/date.php:23
+msgid "Mar"
+msgstr ""
+
+#: ./woocommerce-attendee-information/assets/ext/emd-meta-box/inc/fields/date.php:23
+msgid "Apr"
+msgstr ""
+
+#: ./woocommerce-attendee-information/assets/ext/emd-meta-box/inc/fields/date.php:23
+msgid "Jun"
+msgstr ""
+
+#: ./woocommerce-attendee-information/assets/ext/emd-meta-box/inc/fields/date.php:23
+msgid "Jul"
+msgstr ""
+
+#: ./woocommerce-attendee-information/assets/ext/emd-meta-box/inc/fields/date.php:23
+msgid "Aug"
+msgstr ""
+
+#: ./woocommerce-attendee-information/assets/ext/emd-meta-box/inc/fields/date.php:23
+msgid "Sep"
+msgstr ""
+
+#: ./woocommerce-attendee-information/assets/ext/emd-meta-box/inc/fields/date.php:23
+msgid "Oct"
+msgstr ""
+
+#: ./woocommerce-attendee-information/assets/ext/emd-meta-box/inc/fields/date.php:23
+msgid "Nov"
+msgstr ""
+
+#: ./woocommerce-attendee-information/assets/ext/emd-meta-box/inc/fields/date.php:23
+msgid "Dec"
+msgstr ""
+
+#: ./woocommerce-attendee-information/assets/ext/emd-meta-box/inc/fields/date.php:24
+msgid "Sunday"
+msgstr ""
+
+#: ./woocommerce-attendee-information/assets/ext/emd-meta-box/inc/fields/date.php:24
+msgid "Monday"
+msgstr ""
+
+#: ./woocommerce-attendee-information/assets/ext/emd-meta-box/inc/fields/date.php:24
+msgid "Tuesday"
+msgstr ""
+
+#: ./woocommerce-attendee-information/assets/ext/emd-meta-box/inc/fields/date.php:24
+msgid "Wednesday"
+msgstr ""
+
+#: ./woocommerce-attendee-information/assets/ext/emd-meta-box/inc/fields/date.php:24
+msgid "Thursday"
+msgstr ""
+
+#: ./woocommerce-attendee-information/assets/ext/emd-meta-box/inc/fields/date.php:24
+msgid "Friday"
+msgstr ""
+
+#: ./woocommerce-attendee-information/assets/ext/emd-meta-box/inc/fields/date.php:24
+msgid "Saturday"
+msgstr ""
+
+#: ./woocommerce-attendee-information/assets/ext/emd-meta-box/inc/fields/date.php:25
+msgid "Sun"
+msgstr ""
+
+#: ./woocommerce-attendee-information/assets/ext/emd-meta-box/inc/fields/date.php:25
+msgid "Mon"
+msgstr ""
+
+#: ./woocommerce-attendee-information/assets/ext/emd-meta-box/inc/fields/date.php:25
+msgid "Tue"
+msgstr ""
+
+#: ./woocommerce-attendee-information/assets/ext/emd-meta-box/inc/fields/date.php:25
+msgid "Wed"
+msgstr ""
+
+#: ./woocommerce-attendee-information/assets/ext/emd-meta-box/inc/fields/date.php:25
+msgid "Thu"
+msgstr ""
+
+#: ./woocommerce-attendee-information/assets/ext/emd-meta-box/inc/fields/date.php:25
+msgid "Fri"
+msgstr ""
+
+#: ./woocommerce-attendee-information/assets/ext/emd-meta-box/inc/fields/date.php:25
+msgid "Sat"
+msgstr ""
+
+#: ./woocommerce-attendee-information/assets/ext/emd-meta-box/inc/fields/date.php:26
+msgid "Su"
+msgstr ""
+
+#: ./woocommerce-attendee-information/assets/ext/emd-meta-box/inc/fields/date.php:26
+msgid "Mo"
+msgstr ""
+
+#: ./woocommerce-attendee-information/assets/ext/emd-meta-box/inc/fields/date.php:26
+msgid "Tu"
+msgstr ""
+
+#: ./woocommerce-attendee-information/assets/ext/emd-meta-box/inc/fields/date.php:26
+msgid "We"
+msgstr ""
+
+#: ./woocommerce-attendee-information/assets/ext/emd-meta-box/inc/fields/date.php:26
+msgid "Th"
+msgstr ""
+
+#: ./woocommerce-attendee-information/assets/ext/emd-meta-box/inc/fields/date.php:26
+msgid "Fr"
+msgstr ""
+
+#: ./woocommerce-attendee-information/assets/ext/emd-meta-box/inc/fields/date.php:26
+msgid "Sa"
+msgstr ""
+
+#: ./woocommerce-attendee-information/assets/ext/emd-meta-box/inc/fields/date.php:27
+msgid "Wk"
+msgstr ""
+
+#: ./woocommerce-attendee-information/assets/ext/emd-meta-box/inc/fields/datetime.php:33
+msgid "Choose Time"
+msgstr ""
+
+#: ./woocommerce-attendee-information/assets/ext/emd-meta-box/inc/fields/datetime.php:34
+msgid "Time"
+msgstr ""
+
+#: ./woocommerce-attendee-information/assets/ext/emd-meta-box/inc/fields/datetime.php:35
+msgid "Hour"
+msgstr ""
+
+#: ./woocommerce-attendee-information/assets/ext/emd-meta-box/inc/fields/datetime.php:36
+msgid "Minute"
+msgstr ""
+
+#: ./woocommerce-attendee-information/assets/ext/emd-meta-box/inc/fields/datetime.php:37
+msgid "Second"
+msgstr ""
+
+#: ./woocommerce-attendee-information/assets/ext/emd-meta-box/inc/fields/datetime.php:38
+msgid "Millisecond"
+msgstr ""
+
+#: ./woocommerce-attendee-information/assets/ext/emd-meta-box/inc/fields/datetime.php:39
+msgid "Time Zone"
+msgstr ""
+
+#: ./woocommerce-attendee-information/assets/ext/emd-meta-box/inc/fields/datetime.php:40
+msgid "Now"
+msgstr ""
+
+#: ./woocommerce-attendee-information/assets/ext/emd-meta-box/inc/fields/file-advanced.php:23
+msgid "Select Files"
+msgstr ""
+
+#: ./woocommerce-attendee-information/assets/ext/emd-meta-box/inc/fields/file-advanced.php:64
+msgctxt "file upload"
+msgid "Select or Upload Files"
+msgstr ""
+
+#: ./woocommerce-attendee-information/assets/ext/emd-meta-box/inc/fields/file-advanced.php:100
+msgctxt "file upload"
+msgid "Delete"
+msgstr ""
+
+#: ./woocommerce-attendee-information/assets/ext/emd-meta-box/inc/fields/file-advanced.php:101
+msgctxt "file upload"
+msgid "Edit"
+msgstr ""
+
+#: ./woocommerce-attendee-information/assets/ext/emd-meta-box/inc/fields/file-input.php:17
+msgid "Select File"
+msgstr ""
+
+#: ./woocommerce-attendee-information/assets/ext/emd-meta-box/inc/fields/file-input.php:40
+msgid "Select"
+msgstr ""
+
+#: ./woocommerce-attendee-information/assets/ext/emd-meta-box/inc/fields/file-input.php:42
+msgid "Remove"
+msgstr ""
+
+#: ./woocommerce-attendee-information/assets/ext/emd-meta-box/inc/fields/file.php:19
+msgid "You may only upload maximum %d file"
+msgstr ""
+
+#: ./woocommerce-attendee-information/assets/ext/emd-meta-box/inc/fields/file.php:20
+msgid "You may only upload maximum %d files"
+msgstr ""
+
+#: ./woocommerce-attendee-information/assets/ext/emd-meta-box/inc/fields/file.php:70
+msgid "Error: Cannot delete file"
+msgstr ""
+
+#: ./woocommerce-attendee-information/assets/ext/emd-meta-box/inc/fields/file.php:83
+msgctxt "file upload"
+msgid "Upload Files"
+msgstr ""
+
+#: ./woocommerce-attendee-information/assets/ext/emd-meta-box/inc/fields/file.php:84
+msgctxt "file upload"
+msgid "+ Add new file"
+msgstr ""
+
+#: ./woocommerce-attendee-information/assets/ext/emd-meta-box/inc/fields/image-advanced.php:22
+msgid "Select Images"
+msgstr ""
+
+#: ./woocommerce-attendee-information/assets/ext/emd-meta-box/inc/fields/image-advanced.php:69
+msgctxt "image upload"
+msgid "Select or Upload Images"
+msgstr ""
+
+#: ./woocommerce-attendee-information/assets/ext/emd-meta-box/inc/fields/image-advanced.php:105
+msgctxt "image upload"
+msgid "Delete"
+msgstr ""
+
+#: ./woocommerce-attendee-information/assets/ext/emd-meta-box/inc/fields/image-advanced.php:106
+msgctxt "image upload"
+msgid "Edit"
+msgstr ""
+
+#: ./woocommerce-attendee-information/assets/ext/emd-meta-box/inc/fields/image.php:70
+msgctxt "image upload"
+msgid "Upload Images"
+msgstr ""
+
+#: ./woocommerce-attendee-information/assets/ext/emd-meta-box/inc/fields/image.php:71
+msgctxt "image upload"
+msgid "+ Add new image"
+msgstr ""
+
+#: ./woocommerce-attendee-information/assets/ext/emd-meta-box/inc/fields/map.php:53
+msgid "Find Address"
+msgstr ""
+
+#: ./woocommerce-attendee-information/assets/ext/emd-meta-box/inc/fields/oembed.php:54
+msgid "Embed HTML not available."
+msgstr ""
+
+#: ./woocommerce-attendee-information/assets/ext/emd-meta-box/inc/fields/oembed.php:76
+msgid "Preview"
+msgstr ""
+
+#: ./woocommerce-attendee-information/assets/ext/emd-meta-box/inc/fields/plupload-image.php:102
+msgctxt "image upload"
+msgid "Drop images here"
+msgstr ""
+
+#: ./woocommerce-attendee-information/assets/ext/emd-meta-box/inc/fields/plupload-image.php:103
+msgctxt "image upload"
+msgid "or"
+msgstr ""
+
+#: ./woocommerce-attendee-information/assets/ext/emd-meta-box/inc/fields/plupload-image.php:104
+msgctxt "image upload"
+msgid "Select Files"
+msgstr ""
+
+#: ./woocommerce-attendee-information/assets/ext/emd-meta-box/inc/fields/plupload-image.php:179
+msgctxt "image upload"
+msgid "Allowed Image Files"
+msgstr ""
+
+#: ./woocommerce-attendee-information/assets/ext/emd-meta-box/inc/fields/post.php:52
+msgid "Post"
+msgstr ""
+
+#: ./woocommerce-attendee-information/assets/ext/emd-meta-box/inc/fields/post.php:66
+msgid "Select a %s"
+msgstr ""
+
+#: ./woocommerce-attendee-information/assets/ext/emd-meta-box/inc/fields/user.php:54
+msgid "User"
+msgstr ""
+
+#: ./woocommerce-attendee-information/assets/ext/emd-meta-box/inc/meta-box.php:115
+msgid "This field is required."
+msgstr ""
+
+#: ./woocommerce-attendee-information/assets/ext/emd-meta-box/inc/meta-box.php:116
+msgid "Please fix this field."
+msgstr ""
+
+#: ./woocommerce-attendee-information/assets/ext/emd-meta-box/inc/meta-box.php:117
+msgid "Please enter a valid email address."
+msgstr ""
+
+#: ./woocommerce-attendee-information/assets/ext/emd-meta-box/inc/meta-box.php:118
+msgid "Please enter a valid URL."
+msgstr ""
+
+#: ./woocommerce-attendee-information/assets/ext/emd-meta-box/inc/meta-box.php:119
+msgid "Please enter a valid date."
+msgstr ""
+
+#: ./woocommerce-attendee-information/assets/ext/emd-meta-box/inc/meta-box.php:120
+msgid "Please enter a valid date ( ISO )"
+msgstr ""
+
+#: ./woocommerce-attendee-information/assets/ext/emd-meta-box/inc/meta-box.php:121
+msgid "Please enter a valid number."
+msgstr ""
+
+#: ./woocommerce-attendee-information/assets/ext/emd-meta-box/inc/meta-box.php:122
+msgid "Please enter only digits."
+msgstr ""
+
+#: ./woocommerce-attendee-information/assets/ext/emd-meta-box/inc/meta-box.php:123
+msgid "Please enter a valid credit card number."
+msgstr ""
+
+#: ./woocommerce-attendee-information/assets/ext/emd-meta-box/inc/meta-box.php:124
+msgid "Please enter the same value again."
+msgstr ""
+
+#: ./woocommerce-attendee-information/assets/ext/emd-meta-box/inc/meta-box.php:125
+msgid "Please enter no more than {0} characters."
+msgstr ""
+
+#: ./woocommerce-attendee-information/assets/ext/emd-meta-box/inc/meta-box.php:126
+msgid "Please enter at least {0} characters."
+msgstr ""
+
+#: ./woocommerce-attendee-information/assets/ext/emd-meta-box/inc/meta-box.php:127
+msgid "Please enter a value between {0} and {1} characters long."
+msgstr ""
+
+#: ./woocommerce-attendee-information/assets/ext/emd-meta-box/inc/meta-box.php:128
+msgid "Please enter a value between {0} and {1}."
+msgstr ""
+
+#: ./woocommerce-attendee-information/assets/ext/emd-meta-box/inc/meta-box.php:129
+msgid "Please enter a value less than or equal to {0}."
+msgstr ""
+
+#: ./woocommerce-attendee-information/assets/ext/emd-meta-box/inc/meta-box.php:130
+msgid "Please enter a value greater than or equal to {0}."
+msgstr ""
+
+#: ./woocommerce-attendee-information/assets/ext/emd-meta-box/inc/meta-box.php:280
+msgid "Please correct the errors highlighted below and try again."
+msgstr ""
+
+#: ./woocommerce-attendee-information/includes/admin/settings-functions.php:28
+msgid "Entities"
+msgstr ""
+
+#: ./woocommerce-attendee-information/includes/admin/settings-functions.php:44
+msgid "Taxonomies"
+msgstr ""
+
+#: ./woocommerce-attendee-information/includes/admin/settings-functions.php:47
+msgid "Tools"
+msgstr ""
+
+#: ./woocommerce-attendee-information/includes/admin/settings-functions.php:50
+msgid "Settings Saved."
+msgstr ""
+
+#: ./woocommerce-attendee-information/includes/admin/settings-functions.php:130
+#: ./woocommerce-attendee-information/includes/admin/settings-functions.php:595
+msgid "Base slug"
+msgstr ""
+
+#: ./woocommerce-attendee-information/includes/admin/settings-functions.php:133
+msgid "Sets the custom base slug for single and archive %s. After you update,  flush the rewrite rules by going to the Permalink Settings page. This works only if post name based permalink structure is selected."
+msgstr ""
+
+#: ./woocommerce-attendee-information/includes/admin/settings-functions.php:135
+msgid "Single template"
+msgstr ""
+
+#: ./woocommerce-attendee-information/includes/admin/settings-functions.php:139
+#: ./woocommerce-attendee-information/includes/admin/settings-functions.php:604
+msgid "Right Sidebar"
+msgstr ""
+
+#: ./woocommerce-attendee-information/includes/admin/settings-functions.php:139
+#: ./woocommerce-attendee-information/includes/admin/settings-functions.php:604
+msgid "Left Sidebar"
+msgstr ""
+
+#: ./woocommerce-attendee-information/includes/admin/settings-functions.php:139
+#: ./woocommerce-attendee-information/includes/admin/settings-functions.php:604
+msgid "Full Width"
+msgstr ""
+
+#: ./woocommerce-attendee-information/includes/admin/settings-functions.php:147
+msgid "Sets the template for single %s."
+msgstr ""
+
+#: ./woocommerce-attendee-information/includes/admin/settings-functions.php:149
+msgid "Hide previous next links"
+msgstr ""
+
+#: ./woocommerce-attendee-information/includes/admin/settings-functions.php:156
+msgid "Hides the previous and next %s links on the frontend for single %s."
+msgstr ""
+
+#: ./woocommerce-attendee-information/includes/admin/settings-functions.php:160
+msgid "Archive template"
+msgstr ""
+
+#: ./woocommerce-attendee-information/includes/admin/settings-functions.php:171
+msgid "Sets the template for archive %s."
+msgstr ""
+
+#: ./woocommerce-attendee-information/includes/admin/settings-functions.php:173
+#: ./woocommerce-attendee-information/includes/admin/settings-functions.php:614
+msgid "Hide page navigation"
+msgstr ""
+
+#: ./woocommerce-attendee-information/includes/admin/settings-functions.php:180
+msgid "Hides the page navigation links on the frontend for archive %s."
+msgstr ""
+
+#: ./woocommerce-attendee-information/includes/admin/settings-functions.php:186
+#: ./woocommerce-attendee-information/includes/admin/settings-functions.php:192
+#: ./woocommerce-attendee-information/includes/admin/settings-functions.php:227
+#: ./woocommerce-attendee-information/includes/admin/settings-functions.php:233
+#: ./woocommerce-attendee-information/includes/admin/settings-functions.php:239
+#: ./woocommerce-attendee-information/includes/admin/settings-functions.php:311
+#: ./woocommerce-attendee-information/includes/admin/settings-functions.php:335
+#: ./woocommerce-attendee-information/includes/admin/settings-functions.php:580
+msgid "Enable"
+msgstr ""
+
+#: ./woocommerce-attendee-information/includes/admin/settings-functions.php:187
+#: ./woocommerce-attendee-information/includes/admin/settings-functions.php:193
+#: ./woocommerce-attendee-information/includes/admin/settings-functions.php:228
+#: ./woocommerce-attendee-information/includes/admin/settings-functions.php:234
+#: ./woocommerce-attendee-information/includes/admin/settings-functions.php:312
+#: ./woocommerce-attendee-information/includes/admin/settings-functions.php:336
+#: ./woocommerce-attendee-information/includes/admin/settings-functions.php:581
+msgid "Disable"
+msgstr ""
+
+#: ./woocommerce-attendee-information/includes/admin/settings-functions.php:188
+#: ./woocommerce-attendee-information/includes/admin/settings-functions.php:235
+#: ./woocommerce-attendee-information/includes/admin/settings-functions.php:240
+#: ./woocommerce-attendee-information/includes/admin/settings-functions.php:313
+#: ./woocommerce-attendee-information/includes/admin/settings-functions.php:337
+#: ./woocommerce-attendee-information/includes/admin/settings-functions.php:582
+msgid "Hide on FrontEnd Pages"
+msgstr ""
+
+#: ./woocommerce-attendee-information/includes/admin/settings-functions.php:211
+msgid "Featured Image"
+msgstr ""
+
+#: ./woocommerce-attendee-information/includes/admin/settings-functions.php:256
+msgid "Attributes"
+msgstr ""
+
+#: ./woocommerce-attendee-information/includes/admin/settings-functions.php:258
+msgid "Enable: Display this attribute on everywhere</br>Disable: Remove this attribute from everywhere</br>Hide on FrontEnd Pages: This attribute is still enabled on admin area. If you want to hide this attribute on the frontend forms go to Forms tab."
+msgstr ""
+
+#: ./woocommerce-attendee-information/includes/admin/settings-functions.php:272
+msgid "Hide custom fields"
+msgstr ""
+
+#: ./woocommerce-attendee-information/includes/admin/settings-functions.php:281
+msgid "Check the custom fields you would like to hide on the frontend."
+msgstr ""
+
+#: ./woocommerce-attendee-information/includes/admin/settings-functions.php:304
+msgid "Relationships"
+msgstr ""
+
+#: ./woocommerce-attendee-information/includes/admin/settings-functions.php:306
+msgid "Enable: Display this relationship on everywhere</br>Disable: Remove this relationship from everywhere</br>Hide on FrontEnd Pages: This relationship is still enabled on admin area. If you want to hide this relationship on the frontend forms go to Forms tab."
+msgstr ""
+
+#: ./woocommerce-attendee-information/includes/admin/settings-functions.php:328
+msgid "Relationship attributes"
+msgstr ""
+
+#: ./woocommerce-attendee-information/includes/admin/settings-functions.php:330
+msgid "Enable: Display this relationship attribute on everywhere</br>Disable: Remove this relationship attribute from everywhere</br>Hide on FrontEnd Pages: This relationship attribute is still enabled on admin area."
+msgstr ""
+
+#: ./woocommerce-attendee-information/includes/admin/settings-functions.php:363
+msgid "Remove access restrictions on frontend"
+msgstr ""
+
+#: ./woocommerce-attendee-information/includes/admin/settings-functions.php:370
+msgid "Shows all %s to logged-in and non-logged-in users regardless of content access permissions assigned to their user role."
+msgstr ""
+
+#: ./woocommerce-attendee-information/includes/admin/settings-functions.php:402
+msgid "Frontend map settings"
+msgstr ""
+
+#: ./woocommerce-attendee-information/includes/admin/settings-functions.php:403
+msgid "Width"
+msgstr ""
+
+#: ./woocommerce-attendee-information/includes/admin/settings-functions.php:403
+msgid "Sets the map width.You can use '%' or 'px'. Default is 100%."
+msgstr ""
+
+#: ./woocommerce-attendee-information/includes/admin/settings-functions.php:404
+msgid "Height"
+msgstr ""
+
+#: ./woocommerce-attendee-information/includes/admin/settings-functions.php:404
+msgid "Sets the map height. You can use 'px'. Default is 480px."
+msgstr ""
+
+#: ./woocommerce-attendee-information/includes/admin/settings-functions.php:405
+msgid "Zoom"
+msgstr ""
+
+#: ./woocommerce-attendee-information/includes/admin/settings-functions.php:414
+msgid "Type"
+msgstr ""
+
+#: ./woocommerce-attendee-information/includes/admin/settings-functions.php:424
+msgid "Marker"
+msgstr ""
+
+#: ./woocommerce-attendee-information/includes/admin/settings-functions.php:425
+msgid "Display info window on page load"
+msgstr ""
+
+#: ./woocommerce-attendee-information/includes/admin/settings-functions.php:577
+msgid "Availability"
+msgstr ""
+
+#: ./woocommerce-attendee-information/includes/admin/settings-functions.php:592
+msgid "Enable: Display this taxonomy on everywhere</br>Disable: Remove this taxonomy from everywhere</br>Hide on FrontEnd Pages: This taxonomy is still enabled on admin area. If you want to hide this taxonomy on the frontend forms go to Forms tab."
+msgstr ""
+
+#: ./woocommerce-attendee-information/includes/admin/settings-functions.php:597
+msgid "Sets the custom base slug for this taxonomy. After you update,  flush the rewrite rules by going to the Permalink Settings page."
+msgstr ""
+
+#: ./woocommerce-attendee-information/includes/admin/settings-functions.php:600
+msgid "Template"
+msgstr ""
+
+#: ./woocommerce-attendee-information/includes/admin/settings-functions.php:612
+msgid "Sets the template for the posts which belong to this taxonomy."
+msgstr ""
+
+#: ./woocommerce-attendee-information/includes/admin/settings-functions.php:621
+msgid "Hides the page navigation links on the frontend for archive posts."
+msgstr ""
+
+#: ./woocommerce-attendee-information/includes/admin/settings-functions.php:682
+msgid "All missing pages were installed successfully."
+msgstr ""
+
+#: ./woocommerce-attendee-information/includes/admin/settings-functions.php:693
+#: ./woocommerce-attendee-information/includes/admin/settings-functions.php:695
+msgid "Install pages"
+msgstr ""
+
+#: ./woocommerce-attendee-information/includes/admin/settings-functions.php:696
+msgid "This tool will install all the missing %s pages. Pages already defined and set up will not be replaced."
+msgstr ""
+
+#: ./woocommerce-attendee-information/includes/admin/settings-functions.php:698
+msgid "Disable EMD Templating System"
+msgstr ""
+
+#: ./woocommerce-attendee-information/includes/admin/settings-functions.php:705
+msgid "Check this if you experience theme related issues. This will disable EMD Templating System and use your themes templates instead. It will also disable all the templating related options in Entities and Taxonomies tabs. If you still experience theme related issues after checking this option, read the plugin documentation's resolving theme related issues section."
+msgstr ""
+
+#: ./woocommerce-attendee-information/includes/admin/settings-functions.php:707
+msgid "Delete all settings"
+msgstr ""
+
+#: ./woocommerce-attendee-information/includes/admin/settings-functions.php:714
+msgid "This tool will delete all settings/options data including setup assistant created plugin pages when using the \"Delete\" link on the plugins screen."
+msgstr ""
+
+#: ./woocommerce-attendee-information/includes/admin/settings-functions.php:716
+msgid "Delete all data"
+msgstr ""
+
+#: ./woocommerce-attendee-information/includes/admin/settings-functions.php:729
+msgid "This tool will delete all %s data and related taxonomies including setup assistant created plugin pages when using the \"Delete\" link on the plugins screen. As a best practice we recommend you to backup your database before selecting this option."
+msgstr ""
+
+#: ./woocommerce-attendee-information/includes/admin/settings-functions.php:731
+msgid "Custom CSS"
+msgstr ""
+
+#: ./woocommerce-attendee-information/includes/admin/settings-functions.php:735
+msgid "Custom CSS allows you to add your own styles or override the default CSS of this plugin. The CSS code written here is only applied to this plugin's frontend pages."
+msgstr ""
+
+#: ./woocommerce-attendee-information/includes/admin/store-functions.php:24
+#: ./woocommerce-attendee-information/includes/admin/store-functions.php:47
+msgid "Browse All"
+msgstr ""
+
+#: ./woocommerce-attendee-information/includes/admin/store-functions.php:26
+msgid "The following plugins extend and expand the functionality of your app."
+msgstr ""
+
+#: ./woocommerce-attendee-information/includes/admin/store-functions.php:49
+msgid "The following <a href=\"%s\" title=\"WP App Studio Prodev\" target=\"_blank\">WP App Studio Prodev</a> plugin designs can be used as a template:"
+msgstr ""
+
+#: ./woocommerce-attendee-information/includes/admin/store-functions.php:51
+msgid "To customize the functionality of their corresponding plugins"
+msgstr ""
+
+#: ./woocommerce-attendee-information/includes/admin/store-functions.php:54
+msgid "To create your own plugin"
+msgstr ""
+
+#: ./woocommerce-attendee-information/includes/admin/store-functions.php:81
+msgid "There was an error retrieving the extensions list from the server. Please try again later."
+msgstr ""
+
+#: ./woocommerce-attendee-information/includes/admin/store-functions.php:101
+msgid "Thanks for installing %s."
+msgstr ""
+
+#: ./woocommerce-attendee-information/includes/admin/store-functions.php:101
+msgid "All support requests are accepted through <a href=\"%s\" target=\"_blank\">our support site.</a>"
+msgstr ""
+
+#: ./woocommerce-attendee-information/includes/admin/store-functions.php:126
+msgid "Like our plugin? Leave us a review"
+msgstr ""
+
+#: ./woocommerce-attendee-information/includes/common-functions.php:348
+msgid "Author:"
+msgstr ""
+
+#: ./woocommerce-attendee-information/includes/common-functions.php:349
+msgid "%s \a\t %s"
+msgstr ""
+
+#: ./woocommerce-attendee-information/includes/entities/class-emd-entity.php:152
+msgid "%s updated. <a href=\"%s\">View %s</a>"
+msgstr ""
+
+#: ./woocommerce-attendee-information/includes/entities/class-emd-entity.php:153
+msgid "Custom field updated."
+msgstr ""
+
+#: ./woocommerce-attendee-information/includes/entities/class-emd-entity.php:154
+msgid "Custom field deleted."
+msgstr ""
+
+#: ./woocommerce-attendee-information/includes/entities/class-emd-entity.php:155
+msgid "%s updated."
+msgstr ""
+
+#: ./woocommerce-attendee-information/includes/entities/class-emd-entity.php:157
+msgid "%s restored to revision from %s"
+msgstr ""
+
+#: ./woocommerce-attendee-information/includes/entities/class-emd-entity.php:158
+msgid "%s published. <a href=\"%s\">View %s</a>"
+msgstr ""
+
+#: ./woocommerce-attendee-information/includes/entities/class-emd-entity.php:159
+msgid "%s saved."
+msgstr ""
+
+#: ./woocommerce-attendee-information/includes/entities/class-emd-entity.php:160
+msgid "%s submitted. <a target=\"_blank\" href=\"%s\">Preview %s</a>"
+msgstr ""
+
+#: ./woocommerce-attendee-information/includes/entities/class-emd-entity.php:161
+msgid "%s scheduled for: <strong>%s</strong>. <a target=\"_blank\" href=\"%s\">Preview %s</a>"
+msgstr ""
+
+#: ./woocommerce-attendee-information/includes/entities/class-emd-entity.php:161
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: ./woocommerce-attendee-information/includes/entities/class-emd-entity.php:162
+msgid "%s draft updated. <a target=\"_blank\" href=\"%s\">Preview %s</a>"
+msgstr ""
+
+#: ./woocommerce-attendee-information/includes/entities/class-emd-entity.php:181
+msgid "Operations"
+msgstr ""
+
+#: ./woocommerce-attendee-information/layouts/emd-archive.php:46
+msgid "<i class=\"fa fa-angle-left\"></i> Previous"
+msgstr ""
+
+#: ./woocommerce-attendee-information/layouts/emd-archive.php:48
+msgid "Next <i class=\"fa fa-angle-right\"></i>"
+msgstr ""
+
+#: ./woocommerce-attendee-information/layouts/emd-single.php:43
+msgctxt "Previous post link"
+msgid "<i class=\"fa fa-angle-left\"></i>"
+msgstr ""
+
+#: ./woocommerce-attendee-information/layouts/emd-single.php:44
+msgctxt "Next post link"
+msgid "<i class=\"fa fa-angle-right\"></i>"
+msgstr ""
